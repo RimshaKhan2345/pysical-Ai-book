@@ -1,0 +1,93 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2c3e50;
+  --ifm-color-primary-dark: #233447;
+  --ifm-color-primary-darker: #1f2f41;
+  --ifm-color-primary-darkest: #192633;
+  --ifm-color-primary-light: #354b5c;
+  --ifm-color-primary-lighter: #395063;
+  --ifm-color-primary-lightest: #415c73;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode adjustments */
+[data-theme='dark'] {
+  --ifm-color-primary: #3498db;
+  --ifm-color-primary-dark: #2980b9;
+  --ifm-color-primary-darker: #2573a7;
+  --ifm-color-primary-darkest: #1f5f8b;
+  --ifm-color-primary-light: #4aa3df;
+  --ifm-color-primary-lighter: #5da9e3;
+  --ifm-color-primary-lightest: #7fbaea;
+}
+
+/* Custom styles for the RAG chatbot */
+.rag-chatbot-container {
+  margin: 2rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Adjustments for sidebar placement */
+@media (min-width: 997px) {
+  .rag-chatbot-container {
+    position: sticky;
+    top: 10px;
+    height: 600px;
+  }
+}
+
+/* Styling for the chatbot section */
+.chatbot-section {
+  margin: 2rem 0;
+  padding: 1.5rem;
+  border: 1px solid var(--ifm-color-emphasis-300);
+  border-radius: 8px;
+  background-color: var(--ifm-color-emphasis-0);
+}
+
+/* Custom styling for document content */
+.doc-content {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+/* Adjustments for code blocks */
+.code-block {
+  margin: 1rem 0;
+  border-radius: 4px;
+}
+
+/* Styling for important notes */
+.admonition {
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+/* Styling for inline code */
+.code-inline {
+  background-color: rgba(0, 0, 0, 0.05);
+  padding: 0.2rem 0.4rem;
+  border-radius: 3px;
+  font-family: var(--ifm-font-family-monospace);
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #25c2a0;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
