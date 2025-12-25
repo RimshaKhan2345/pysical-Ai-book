@@ -1,0 +1,90 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "chapter-1-robotic-nervous-system",
+              "path": "/docs/chapter-1-robotic-nervous-system",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-2-digital-twin",
+              "path": "/docs/chapter-2-digital-twin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-3-ai-robot-brain",
+              "path": "/docs/chapter-3-ai-robot-brain",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "chapter-4-vision-language-action",
+              "path": "/docs/chapter-4-vision-language-action",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "conclusion",
+              "path": "/docs/conclusion",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "tutorial-basics/congratulations",
+              "path": "/docs/tutorial-basics/congratulations"
+            },
+            {
+              "id": "tutorial-basics/create-a-blog-post",
+              "path": "/docs/tutorial-basics/create-a-blog-post"
+            },
+            {
+              "id": "tutorial-basics/create-a-document",
+              "path": "/docs/tutorial-basics/create-a-document"
+            },
+            {
+              "id": "tutorial-basics/create-a-page",
+              "path": "/docs/tutorial-basics/create-a-page"
+            },
+            {
+              "id": "tutorial-basics/deploy-your-site",
+              "path": "/docs/tutorial-basics/deploy-your-site"
+            },
+            {
+              "id": "tutorial-basics/markdown-features",
+              "path": "/docs/tutorial-basics/markdown-features"
+            },
+            {
+              "id": "tutorial-extras/manage-docs-versions",
+              "path": "/docs/tutorial-extras/manage-docs-versions"
+            },
+            {
+              "id": "tutorial-extras/translate-your-site",
+              "path": "/docs/tutorial-extras/translate-your-site"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

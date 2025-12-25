@@ -1,0 +1,23 @@
+{
+  "id": "intro",
+  "title": "Introduction to Physical AI & Humanoid Robotics",
+  "description": "Welcome to the comprehensive guide on Physical AI & Humanoid Robotics. This interactive book explores the fascinating world of embodied artificial intelligence and how it enables humanoid robots to perceive, understand, and interact with the physical world.",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-robotics-book/docs/intro.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Chapter 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/docs/chapter-1-robotic-nervous-system"
+  }
+}

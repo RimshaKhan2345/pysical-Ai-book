@@ -1,0 +1,27 @@
+{
+  "id": "chapter-3-ai-robot-brain",
+  "title": "Chapter 3: The AI-Robot Brain (NVIDIA Isaac™)",
+  "description": "Introduction to NVIDIA Isaac™",
+  "source": "@site/docs/chapter-3-ai-robot-brain.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-3-ai-robot-brain",
+  "permalink": "/docs/chapter-3-ai-robot-brain",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-robotics-book/docs/chapter-3-ai-robot-brain.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 2: The Digital Twin (Gazebo & Unity)",
+    "permalink": "/docs/chapter-2-digital-twin"
+  },
+  "next": {
+    "title": "Chapter 4: Vision-Language-Action (VLA)",
+    "permalink": "/docs/chapter-4-vision-language-action"
+  }
+}

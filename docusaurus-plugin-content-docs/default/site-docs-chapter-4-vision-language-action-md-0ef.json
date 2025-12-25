@@ -1,0 +1,27 @@
+{
+  "id": "chapter-4-vision-language-action",
+  "title": "Chapter 4: Vision-Language-Action (VLA)",
+  "description": "Introduction to Vision-Language-Action Models",
+  "source": "@site/docs/chapter-4-vision-language-action.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-4-vision-language-action",
+  "permalink": "/docs/chapter-4-vision-language-action",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-robotics-book/docs/chapter-4-vision-language-action.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/chapter-3-ai-robot-brain"
+  },
+  "next": {
+    "title": "Conclusion: The Future of Physical AI & Humanoid Robotics",
+    "permalink": "/docs/conclusion"
+  }
+}

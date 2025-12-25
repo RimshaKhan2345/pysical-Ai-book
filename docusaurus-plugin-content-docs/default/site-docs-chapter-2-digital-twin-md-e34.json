@@ -1,0 +1,27 @@
+{
+  "id": "chapter-2-digital-twin",
+  "title": "Chapter 2: The Digital Twin (Gazebo & Unity)",
+  "description": "Introduction to Digital Twins in Robotics",
+  "source": "@site/docs/chapter-2-digital-twin.md",
+  "sourceDirName": ".",
+  "slug": "/chapter-2-digital-twin",
+  "permalink": "/docs/chapter-2-digital-twin",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/your-username/physical-ai-robotics-book/docs/chapter-2-digital-twin.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Chapter 1: The Robotic Nervous System (ROS 2)",
+    "permalink": "/docs/chapter-1-robotic-nervous-system"
+  },
+  "next": {
+    "title": "Chapter 3: The AI-Robot Brain (NVIDIA Isaac™)",
+    "permalink": "/docs/chapter-3-ai-robot-brain"
+  }
+}
